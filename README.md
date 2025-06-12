@@ -4,9 +4,11 @@ The Department for Education (DfE) is running a three-year programme to establis
 
 This work is being delivered in close coordination with the Department for Health and Social Care (DHSC) given the important overlaps with adult social care, and under the direction of a steering board which brings together a range of stakeholders.  
 
+![Programme timeline](https://github.com/SocialCareData/.github/blob/readme/timeline.png)
+
 After an initial mobilisation phase, we are now into the development stage with two workstreams to take forward two priority Use Cases:
  - Multiagency Information Sharing (MAIS)
- - the market for Commissioning children’s care placements.  
+ - Commissioning children’s care placements.  
 
 Each workstream will follow best practice in developing open standards for data, with an open working group in which all interested stakeholders may take part. Working groups will also make recommendations as to the implementation support required by LAs, CMS suppliers, and other stakeholders.  
 
@@ -18,7 +20,7 @@ Whilst the scope for the programme as a whole is broad, we are focussing in the 
 - A Person Standard will standardise some of the data collected about individuals, focussing on those fields required to distinguish one person from another, and to identify relationships between persons.
 - The first component of a Children’s Social Care Taxonomy will define key concepts in children’s social care, and how they are described, but be limited in scope to those concepts needed to support the core use cases for Single View systems. 
 
-### Standards Brief – commissioning children’s care placements   
+### Standards Brief – Commissioning children’s care placements   
 
 We will develop a standard which: 
 - Allows groups of LAs (we assume regions) to create a shared picture of placement sufficiency – what provision do they need, where, and available at what notice – and how does this compare to what they have available to the now.
