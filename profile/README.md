@@ -4,8 +4,6 @@ The Department for Education (DfE) is running a three-year programme to establis
 
 This work is being delivered in close coordination with the Department for Health and Social Care (DHSC) given the important overlaps with adult social care, and under the direction of a steering board which brings together a range of stakeholders.  
 
-![Programme timeline](https://github.com/SocialCareData/.github/blob/main/profile/timeline.png)
-
 After an initial mobilisation phase, we are now into the development stage with two workstreams to take forward two priority Use Cases:
  - Multiagency Information Sharing (MAIS)
  - Commissioning children’s care placements.  
