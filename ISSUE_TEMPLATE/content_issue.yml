@@ -1,0 +1,47 @@
+name: Content Issue
+description: File an issue with the content of the standard or surrounding material.
+title: "[Content]: "
+labels: []
+projects: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this issue. Please ensure that the title you select above accurately reflects your issue, then fill out the sections below. 
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you start
+      options:
+        - label: I have checked that this issue has not already been raised on this repository's 'Issues' page.
+          required: true
+        - label: I am a member of the Steering Committee or a Working Group for this project.
+          required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your issue
+      placeholder: Write a description of your issue with the content here.
+    required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Provide links to relevant content, text, code, or external resources.
+    required: false
+  - type: input
+    id: urgency
+    attributes:
+      label: Urgency
+      description: Describe the urgency of your issue
+      placeholder: ex. urgent, can wait, for discussion
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our interim Code of Conduct (https://www.contributor-covenant.org/version/2/1/code_of_conduct/). 
+      options:
+        - label: I agree to follow the Code of Conduct.
+          required: true
