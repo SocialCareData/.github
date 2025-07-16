@@ -23,9 +23,8 @@ body:
     attributes:
       label: Describe your issue
       placeholder: |
-      Write a description of your issue with the content here.
-      
-      If you have wording to add, update or remove - include it here.
+        Write a description of your issue with the content here. 
+        If you have wording to add, update or remove - include it here.
     validations:
       required: true
   - type: textarea
