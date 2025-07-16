@@ -23,14 +23,14 @@ body:
     attributes:
       label: Describe your issue
       placeholder: |
-        Write a description of your issue with the content here. 
+        Write a description of your issue here. 
         If you have wording to add, update or remove - include it here.
     validations:
       required: true
   - type: textarea
     id: references
     attributes:
-      label: Provide links to relevant content, text, code, or external resources.
+      label: Provide links to any relevant content, text, code, or external resources.
     validations:
       required: false
   - type: input
