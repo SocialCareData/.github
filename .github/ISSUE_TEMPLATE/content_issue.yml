@@ -9,15 +9,15 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this issue. Please ensure that the title you select above accurately reflects your issue, then fill out the sections below. 
-  - type: checkboxes
-    id: checks
-    attributes:
-      label: Before you start
-      options:
-        - label: I have checked that this issue has not already been raised on this repository's 'Issues' page.
-          required: true
-        - label: I am a member of the Steering Committee or a Working Group for this project.
-          required: false
+  # - type: checkboxes
+  #   id: checks
+  #   attributes:
+  #     label: Before you start
+  #     options:
+  #       - label: I have checked that this issue has not already been raised on this repository's 'Issues' page.
+  #         required: true
+  #       - label: I am a member of the Steering Committee or a Working Group for this project.
+  #         required: false
   - type: textarea
     id: description
     attributes:
