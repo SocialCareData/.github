@@ -10,7 +10,7 @@ body:
       description: Unique kebab-case ID for the initiative (used as the key), e.g., city-open-schema.
       placeholder: 
     validations:
-      required: false
+      required: true
 
   - type: input
     id: name
