@@ -1,5 +1,6 @@
 name: Add or update an initiative
 description: Propose a new initiative or changes to an existing record
+labels: "ingest"
 title: "[Add/Update] "
 body:
   - type: input
