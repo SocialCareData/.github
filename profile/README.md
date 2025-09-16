@@ -1,22 +1,22 @@
-## Department for Education’s Data and Tech Standards for Children’s Social Care CMS
+## Data and Tech Standards for Children’s and Adults' Social Care CMS
 
-The Department for Education (DfE) is running a three-year programme to establish data standards and interoperability standards in children’s social care. Social Finance is leading this programme on behalf of the department. 
-
-This work is being delivered in close coordination with the Department for Health and Social Care (DHSC) given the important overlaps with adult social care, and under the direction of a steering board which brings together a range of stakeholders.  
+The Department for Education (DfE) and the Department of Health and Social Care (DHSC) are running a three-year programme to establish data standards and interoperability standards in children’s and adults’ social care. Social Finance is leading this programme on behalf of the department, under the direction of a steering board which brings together a range of stakeholders.
 
 After an initial mobilisation phase, we are now into the development stage with two workstreams to take forward two priority Use Cases:
- - Multiagency Information Sharing (MAIS)
- - Commissioning children’s care placements.  
 
-Each workstream will follow best practice in developing open standards for data, with an open working group in which all interested stakeholders may take part. Working groups will also make recommendations as to the implementation support required by LAs, CMS suppliers, and other stakeholders.  
+· Multiagency Information Sharing (MAIS)
+
+· Commissioning children’s care placements.
+
+Each workstream will follow best practice in developing open standards for data, with an open working group in which all interested stakeholders may take part. Working groups will also make recommendations as to the implementation support required by LAs, CMS suppliers, and other stakeholders.
 
 ### Standards brief – Multiagency information sharing 
 
-Whilst the scope for the programme as a whole is broad, we are focussing in the first instance on the standards required to unblock the use of ‘Single View’ systems, as an aid to multi-agency information sharing. Specifically: 
+Whilst the scope for the programme as a whole is broad, we are focussing in the first instance on the standards required to unblock the use of ‘Single View’ systems, as an aid to multi-agency information sharing. Specifically:
 
-- A Data Exchange Standard will standardise and support how data is exchanged between systems. 
+- A Data Exchange Standard will standardise and support how data is exchanged between systems.
 - A Person Standard will standardise some of the data collected about individuals, focussing on those fields required to distinguish one person from another, and to identify relationships between persons.
-- The first component of a Children’s Social Care Taxonomy will define key concepts in children’s social care, and how they are described, but be limited in scope to those concepts needed to support the core use cases for Single View systems. 
+- The first component of a Social Care Taxonomy will define key concepts in social care, and how they are described, but be limited in scope to those concepts needed to support the core use cases for Single View systems.
 
 ### Standards Brief – Commissioning children’s care placements   
 
